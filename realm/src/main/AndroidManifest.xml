@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.realm">
+
+    <application>
+        <activity android:name=".async.AddDeleteActivity" />
+        <activity android:name=".async.AsyncActivity" />
+        <activity android:name=".async.AsyncQueryActivity" />
+        <activity android:name=".async.UpdateCatActivity" />
+        <activity android:name=".activity.AllDogActivity" />
+        <activity android:name=".activity.ConditionQueryActivity" />
+        <activity android:name=".activity.DogListActivity" />
+        <activity android:name=".activity.RealmMainActivity" />
+        <activity android:name=".activity.OtherQueryActivity" />
+        <activity android:name=".activity.UpdateActivity" />
+        <activity android:name=".activity.QueryActivity" />
+    </application>
+</manifest>
