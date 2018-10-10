@@ -6,9 +6,6 @@ import java.util.List;
 import io.realm.Realm;
 import io.realm.RealmResults;
 
-/**
- * Created by matou0289 on 2016/10/20.
- */
 
 public class RealmHelper {
     public static final String DB_NAME = "myRealm.realm";

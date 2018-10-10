@@ -1,1 +1,1 @@
-include ':app', ':sqlite', ':realm'
+include ':app', ':sqlite', ':realm', ':sharedpreference'

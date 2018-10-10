@@ -10,7 +10,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/stoke_bg"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="40dp">
@@ -22,10 +21,7 @@
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content" />
-        <View
-            android:background="@color/colorAccent"
-            android:layout_width="1dp"
-            android:layout_height="match_parent"/>
+
         <EditText
             android:paddingLeft="20dp"
             android:hint="请输入ID"
@@ -39,7 +35,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="@drawable/stoke_bg"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="40dp">
@@ -51,10 +46,7 @@
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content" />
-        <View
-            android:background="@color/colorAccent"
-            android:layout_width="1dp"
-            android:layout_height="match_parent"/>
+
         <EditText
             android:paddingLeft="20dp"
             android:hint="请输入年龄"
@@ -71,7 +63,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="@color/colorAccent"
         android:layout_width="match_parent"
         android:layout_height="40dp" />
     <Button
@@ -82,7 +73,6 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="@color/colorAccent"
         android:layout_width="match_parent"
         android:layout_height="40dp" />
 

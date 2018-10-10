@@ -9,7 +9,6 @@
     <EditText
         android:id="@+id/et_name"
         android:layout_margin="20dp"
-        android:background="@drawable/stoke_bg"
         android:hint="请输入新的Name"
         android:padding="10dp"
         android:layout_width="match_parent"
@@ -21,6 +20,5 @@
         android:text="UpdateName"
         android:layout_margin="20dp"
         android:layout_width="match_parent"
-        android:background="@color/colorAccent"
         android:layout_height="wrap_content" />
 </LinearLayout>

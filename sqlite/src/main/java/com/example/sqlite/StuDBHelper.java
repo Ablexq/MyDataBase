@@ -11,8 +11,7 @@ public class StuDBHelper extends SQLiteOpenHelper {
     public static final int VERSION = 1;
 
     //必须要有构造函数
-    public StuDBHelper(Context context, String name, SQLiteDatabase.CursorFactory factory,
-                       int version) {
+    public StuDBHelper(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
         super(context, name, factory, version);
     }
 
